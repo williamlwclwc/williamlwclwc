@@ -9,9 +9,9 @@
 
 ### Experience
 
-* Incoming MSc CS @ UC Davis
+* Incoming MSc CS student @ UC Davis
 * BSc(Hons) AI @ the University of Manchester
-* BMeng CS @ Huazhong University of Science and Technology
+* BEng CS @ Huazhong University of Science and Technology
 * Research Assistant @ Tsinghua University (2020/10 - 2021/07)
 * MTS Intern @ VMware, Beijing (2019/06 - 2019/08)
 
