@@ -1,4 +1,4 @@
-# Hello, I'm Wenchang (William) Liu
+# Greetings, I'm Wenchang (William) Liu
 
 ## About me
 
@@ -7,12 +7,16 @@
 * Web Development
 * Machine Learning & Deep Learning
 
+### Education
+
+* First-year M.S. CS student @ UC Davis
+* B.S.(Hons) AI @ the University of Manchester (2+2 program)
+  * Certificate of Excellence (GPA Top 10%)
+* B.E. CS @ Huazhong University of Science and Technology (2+2 program)
+
 ### Experience
 
-* Incoming MSc CS student @ UC Davis
-* BSc(Hons) AI @ the University of Manchester
-* BEng CS @ Huazhong University of Science and Technology
-* Research Assistant @ Tsinghua University (2020/10 - 2021/07)
+* Research Assistant @ Tsinghua University (2020/09 - 2021/07)
 * MTS Intern @ VMware, Beijing (2019/06 - 2019/08)
 
 ## Languages
@@ -43,7 +47,9 @@
 ## Contact me
 
 * Github: [williamlwclwc](https://github.com/williamlwclwc)
-* Email: [william.wenchang.liu@outlook.com](mailto:william.wenchang.liu@outlook.com)
+* Email:
+  * [william.wenchang.liu@outlook.com](mailto:william.wenchang.liu@outlook.com)
+  * [wchliu@ucdavis.edu](wchliu@ucdavis.edu)
 * Linkedin: [wenchang-liu](https://www.linkedin.com/in/wenchang-liu-938a6bb2)
 * Blog: [Wenchang's Blog](https://williamlwclwc.github.io)
 
