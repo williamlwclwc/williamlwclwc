@@ -9,13 +9,14 @@
 
 ### Education
 
-* First-year M.S. CS student @ UC Davis
+* M.S. CS student @ UC Davis
 * B.S.(Hons) AI @ the University of Manchester (2+2 program)
   * Certificate of Excellence (GPA Top 10%)
 * B.E. CS @ Huazhong University of Science and Technology (2+2 program)
 
 ### Experience
 
+* Incoming Software Engineering Intern @ TikTok/ByteDance(DataAML 2022/06)
 * Research Assistant @ Tsinghua University (2020/09 - 2021/07)
 * MTS Intern @ VMware, Beijing (2019/06 - 2019/08)
 
