@@ -9,14 +9,18 @@
 
 ### Education
 
-* M.S. CS student @ UC Davis
+* M.S. CS @ UC Davis
+  * TA: ECS174 Computer Vision 2022 Spring
+  * Current GPA: 4.0/4.0
 * B.S.(Hons) AI @ the University of Manchester (2+2 program)
   * Certificate of Excellence (GPA Top 10%)
+  * First Class Degree, GPA: 82.5/100
 * B.E. CS @ Huazhong University of Science and Technology (2+2 program)
+  * GPA: 3.6/4.0
 
 ### Experience
 
-* Incoming Software Engineering Intern @ TikTok/ByteDance(DataAML 2022/06)
+* Software Engineering Intern @ TikTok/ByteDance(DataAML 2022/06 - 2022/09)
 * Research Assistant @ Tsinghua University (2020/09 - 2021/07)
 * MTS Intern @ VMware, Beijing (2019/06 - 2019/08)
 
@@ -39,7 +43,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-000?&logo=Scikit-Learn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
