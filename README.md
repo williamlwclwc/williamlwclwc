@@ -10,19 +10,13 @@
 ### Education
 
 * M.S. CS @ UC Davis
-  * TA: ECS174 Computer Vision 2022 Spring
-  * Current GPA: 4.0/4.0
+  * TA: ECS174 Computer Vision 2022,2023 Spring
+  * Current GPA: 3.96/4.0
 * B.S.(Hons) AI @ the University of Manchester (2+2 program)
   * Certificate of Excellence (GPA Top 10%)
   * First Class Degree, GPA: 82.5/100
 * B.E. CS @ Huazhong University of Science and Technology (2+2 program)
   * GPA: 3.6/4.0
-
-### Experience
-
-* Software Engineering Intern @ TikTok/ByteDance(DataAML 2022/06 - 2022/09)
-* Research Assistant @ Tsinghua University (2020/09 - 2021/07)
-* MTS Intern @ VMware, Beijing (2019/06 - 2019/08)
 
 ## Languages
 
@@ -47,15 +41,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-
-## Contact me
-
-* Github: [williamlwclwc](https://github.com/williamlwclwc)
-* Email:
-  * [william.wenchang.liu@outlook.com](mailto:william.wenchang.liu@outlook.com)
-  * [wchliu@ucdavis.edu](wchliu@ucdavis.edu)
-* Linkedin: [wenchang-liu](https://www.linkedin.com/in/wenchang-liu-938a6bb2)
-* Blog: [Wenchang's Blog](https://williamlwclwc.github.io)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 ## GitHub Stats
 
